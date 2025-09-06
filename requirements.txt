@@ -1,0 +1,8 @@
+1-pandas
+2-numpy
+3-scikit-learn
+  -train_test_split
+  -svm
+  -StandardScaler
+  -accuracy_score
+
